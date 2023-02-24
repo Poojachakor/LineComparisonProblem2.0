@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            LengthOfLine.LengthOfLines();
+            CheckingEquality.EqualityCheck();
         }
     }
 }
